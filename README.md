@@ -1,3 +1,6 @@
+# NAME: S.KAVIYA
+# RESIGTER NO: 212223040090
+
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
